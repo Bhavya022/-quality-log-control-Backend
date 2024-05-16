@@ -1,0 +1,14 @@
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"GET /","timestamp":"2024-05-15T19:06:17.721Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"404 - Not Found - /","timestamp":"2024-05-15T19:06:17.814Z"}
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"POST /api/ingestor/ingest","timestamp":"2024-05-15T19:07:13.386Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"400 - Bad Request - /api/ingestor/ingest","timestamp":"2024-05-15T19:07:13.413Z"}
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"POST /api/ingestor/ingest","timestamp":"2024-05-15T19:16:54.204Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"400 - Bad Request - /api/ingestor/ingest","timestamp":"2024-05-15T19:16:54.219Z"}
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"POST /api/ingestor/ingest","timestamp":"2024-05-15T19:21:52.688Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"200 - OK - /api/ingestor/ingest","timestamp":"2024-05-15T19:21:52.712Z"}
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"POST /api/query/search","timestamp":"2024-05-15T19:22:31.637Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"404 - Not Found - /api/query/search","timestamp":"2024-05-15T19:22:31.642Z"}
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"POST /api/query/search","timestamp":"2024-05-15T19:22:40.465Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"404 - Not Found - /api/query/search","timestamp":"2024-05-15T19:22:40.468Z"}
+{"ipAddress":"::ffff:127.0.0.1","level":"info","message":"POST /api/query/search","timestamp":"2024-05-15T19:26:30.046Z","userAgent":"Thunder Client (https://www.thunderclient.com)"}
+{"level":"info","message":"400 - Bad Request - /api/query/search","timestamp":"2024-05-15T19:26:30.083Z"}
